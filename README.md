@@ -1,4 +1,4 @@
-# Real_Time_Face_Expression_Recognition
+# Emotion AI - Real_Time_Face_Expression_Recognition
 
 ## Overview
 It is a technique used to read the emotions on a human face by using image processing. The program can recognize emotions, such as anger, sadness, fear, joy, disgust, surprise, trust, and so on.It can be used by company to detect the Facial emotion of employee or, Facial Emotion Detection in Interviews to hire candidates, digital advertising, etc..
